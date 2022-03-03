@@ -1,4 +1,5 @@
 _Ever wondered how people option in google photos able to retirieve all the images of a specific selected person?_
+
 _Well this project aims along the similar use-case but as advanced as algorithms used by google photos of course._
 
 By selecting an image of a person, This project tries to return the images of the same person from the data set we are working on. 
@@ -8,7 +9,7 @@ By selecting an image of a person, This project tries to return the images of th
 Olivetti faces data is stored in faces folder.
 'Outputs' contains output generated for the given tasks 
 There's also a Report included in this folder.
------------------------------------------------------------------------
+
 After running the code, you will be asked in the console to choose a task,
 
 after choosing the task, depending on the task's requirements it will ask you for folder location, ImgID or model
