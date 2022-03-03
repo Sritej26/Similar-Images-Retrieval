@@ -4,10 +4,10 @@ _Well this project aims along the similar use-case but as advanced as algorithms
  By selecting an image of a person, This project tries to return the images of the same person from the data set we are working on. 
 
 
--'Code' contains code.py file which is the python file that contains code to execute all the tasks.
--Olivetti faces data is stored in faces folder.
--'Outputs' contains output generated for the given tasks 
--There's also a Report included in this folder.
+- 'Code' contains code.py file which is the python file that contains code to execute all the tasks.
+- Olivetti faces data is stored in faces folder.
+- 'Outputs' contains output generated for the given tasks 
+- There's also a Report included in this folder.
 
 After running the code, you will be asked in the console to choose a task,
 after choosing the task, depending on the task's requirements it will ask you for folder location, ImgID or model
